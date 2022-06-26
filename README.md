@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/zainulabdeen"><img src="https://github.com/Zidan2k9/Zidan2k9/blob/master/devcard.svg" width="400" alt="Zain Ul-Abdeen's Dev Card"/></a>
